@@ -7,7 +7,7 @@ Criando proxy de APIs com Spring cloud, Zuul e Eureka
 
 ## Preparando ambiente
 
-- ```cd pring-cloud-netflix-proxy-apis```
+- ```cd spring-cloud-netflix-proxy-apis```
 - ```mvn clean package spring-cloud-netflix-proxy-apis```
 
 ## Executando 
